@@ -18,6 +18,7 @@ import Project3 from "./assets/img/projects/p3.webp";
 import Project4 from "./assets/img/projects/p4.webp";
 import Project5 from "./assets/img/projects/p5.webp";
 import Project6 from "./assets/img/projects/p6.webp";
+import Project7 from "./assets/img/projects/p7.gif";
 
 // skills images
 import SkillImg1 from "./assets/img/skills/html5.png";
@@ -69,6 +70,12 @@ export const social = [
 
 // projects
 export const projectsData = [
+  {
+    id: "1",
+    image: Project7,
+    name: "Task-Me",
+    category: "Web development",
+  },
   {
     id: "1",
     image: Project1,
@@ -197,7 +204,7 @@ export const contact = [
   {
     icon: <FiMapPin />,
     title: "Current Location",
-    subtitle: "Wardha, Maharashtra",
-    description: "+91-8888511684",
+    subtitle: "Mumbai, Maharashtra",
+    description: "+91-8080282977",
   },
 ];

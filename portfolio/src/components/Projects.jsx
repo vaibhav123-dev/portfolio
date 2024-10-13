@@ -11,6 +11,14 @@ const Projects = () => {
   const [item, setItem] = useState({ name: "all" });
   const [projects, setProjects] = useState([
     {
+      name: "Task-Me",
+      img: "https://s2.ezgif.com/tmp/ezgif-2-0a830280c4.gif",
+      feature:
+        "A full-stack project called Task Manager using React, Redux, Express.js, MongoDB, and Tailwind CSS. This application allows admins to manage and assign tasks to employees, track their progress, and modify tasks",
+      Link: "https://portfolio-woad-theta-84.vercel.app/",
+      Github: "https://github.com/vaibhav123-dev/portfolio",
+    },
+    {
       name: "Quiz App",
       img: "https://user-images.githubusercontent.com/93373467/183861384-57289203-d962-4c0e-87fe-095d3b1645f7.gif",
       feature:
