@@ -30,7 +30,6 @@ import SkillImg6 from "./assets/img/skills/node.webp";
 import SkillImg9 from "./assets/img/skills/exp.png";
 import SkillImg7 from "./assets/img/skills/git.png";
 import SkillImg8 from "./assets/img/skills/mgdb.png";
-import SkillImg10 from "./assets/img/skills/material-ui.png";
 
 // navigation
 export const navigation = [
@@ -158,10 +157,6 @@ export const skills = [
   {
     image: SkillImg7,
     name: "GitHub",
-  },
-  {
-    image: SkillImg10,
-    name: "Material Ui",
   },
 ];
 

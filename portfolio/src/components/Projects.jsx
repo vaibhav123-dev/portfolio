@@ -12,19 +12,27 @@ const Projects = () => {
   const [projects, setProjects] = useState([
     {
       name: "Task-Me",
-      img: "https://s2.ezgif.com/tmp/ezgif-2-0a830280c4.gif",
+      img: "https://github.com/user-attachments/assets/5eaa8474-0f9c-400a-9983-cc7007f07741",
       feature:
         "A full-stack project called Task Manager using React, Redux, Express.js, MongoDB, and Tailwind CSS. This application allows admins to manage and assign tasks to employees, track their progress, and modify tasks",
-      Link: "https://portfolio-woad-theta-84.vercel.app/",
-      Github: "https://github.com/vaibhav123-dev/portfolio",
+      Link: "https://task-manager-app-client-olive.vercel.app/",
+      Github: "https://github.com/vaibhav123-dev/Task-Manager-App",
     },
     {
-      name: "Quiz App",
-      img: "https://user-images.githubusercontent.com/93373467/183861384-57289203-d962-4c0e-87fe-095d3b1645f7.gif",
+      name: "Klimate",
+      img: "https://github.com/user-attachments/assets/1d662400-dd55-42b2-89ca-359caead8bd3",
       feature:
-        "Quiz Application made using MERN Stack. Where user can attemp quiz and get result. Also user can access his old quiz result. Tech-stack : [React,NodeJs,ExpressJs,MongoDB] ",
-      Link: "",
-      Github: "https://github.com/vaibhav123-dev/Quiz_App",
+        "A responsive weather application offering real-time weather updates, forecasts, and insights, built using React js, Tailwind css, Openweather Api, ShadCN Ui, React Query.",
+      Link: "https://klimateweather.vercel.app/",
+      Github: "https://github.com/vaibhav123-dev/climate",
+    },
+    {
+      name: "Portfolio Website",
+      img: "https://user-images.githubusercontent.com/93373467/183902755-f334ba41-b7d6-4e8a-88a8-ba23e1070914.gif",
+      feature:
+        "Portfolio website where user can see my projects and skills. Built Using React, Tailwind Css, Framer Motion Swiper Js, React Scroll",
+      Link: "https://vaibhav-dev-portfolio.netlify.app/",
+      Github: "https://github.com/vaibhav123-dev/portfolio-website",
     },
     {
       name: "ToDo App",
@@ -32,14 +40,6 @@ const Projects = () => {
       feature: "Todo Application made with ReactJs. Tech-stack : [React] ",
       Link: "https://todo-app-vab-devv.netlify.app/",
       Github: "https://github.com/vaibhav123-dev/Todo-app-react-js",
-    },
-    {
-      name: "Portfolio Website",
-      img: "https://user-images.githubusercontent.com/93373467/183902755-f334ba41-b7d6-4e8a-88a8-ba23e1070914.gif",
-      feature:
-        "Portfolio website where user can see my projects and skills. Tech-stack : [React,NodeJs,ExpressJs,MongoDB] ",
-      Link: "https://vaibhav-dev-portfolio.netlify.app/",
-      Github: "https://github.com/vaibhav123-dev/portfolio-website",
     },
     {
       name: "E-commerce Website",
