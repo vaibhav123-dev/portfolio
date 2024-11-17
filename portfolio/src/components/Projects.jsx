@@ -31,7 +31,7 @@ const Projects = () => {
       img: "https://user-images.githubusercontent.com/93373467/183902755-f334ba41-b7d6-4e8a-88a8-ba23e1070914.gif",
       feature:
         "Portfolio website where user can see my projects and skills. Built Using React, Tailwind Css, Framer Motion Swiper Js, React Scroll",
-      Link: "https://vaibhav-dev-portfolio.netlify.app/",
+      Link: "https://vaibhav-darvekar-portfolio.vercel.app/",
       Github: "https://github.com/vaibhav123-dev/portfolio-website",
     },
     {
